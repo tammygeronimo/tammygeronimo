@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hola! 👋
+Hey there! I'm Tamara Geronimo, a DOST-SEI scholar taking BS in Information Technology at the Polytechnic University of the Philippines, San Juan ~
 <!--
 **tammygeronimo/tammygeronimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
