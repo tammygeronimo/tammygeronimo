@@ -1,5 +1,5 @@
 <h1 align="center"> Hola 👋, I'm Tammy!🌷</h1>
-![]()
+![]("https://github.com/tammygeronimo/ok/blob/main/200w.gif")
 <h3 align="justified"> A ✨ sophomore DOST-SEI Scholar ✨ pursuing the program-- BS in Information Technology at the Polytechnic University of the Philippines, San Juan Campus. An eager learner with the desire to continuously improve understanding and skills. Highly appreciates nurturing mentorship.</h3>
 
 - 🌱 I’m currently learning **c languages, java, and python**
