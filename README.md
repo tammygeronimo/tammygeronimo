@@ -1,5 +1,6 @@
-<h1 align="center"> Hola 👋, I'm Tammy!</h1>
-<h3 align="center"> A sophomore DOST-SEI Scholar pursuing the program-- BS in Information Technology at the Polytechnic University of the Philippines, San Juan Campus. An eager learner with the desire to continuously improve understanding and skills. Highly appreciates constructive and nurturing mentorship.</h3>
+<h1 align="center"> Hola 👋, I'm Tammy!🌷</h1>
+<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<h3 align="justified"> A ✨ sophomore DOST-SEI Scholar ✨ pursuing the program-- BS in Information Technology at the Polytechnic University of the Philippines, San Juan Campus. An eager learner with the desire to continuously improve understanding and skills. Highly appreciates nurturing mentorship.</h3>
 
 - 🌱 I’m currently learning **c languages, java, and python**
 - 📫 How to reach me **tamarasgeronimo@iskolarngbayan.pup.edu.ph**
@@ -11,12 +12,10 @@
 </p>
 
 <!--
+COMMENY
 **tammygeronimo/tammygeronimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
