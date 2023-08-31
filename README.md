@@ -1,8 +1,8 @@
 <h1 align="center"> Hola 👋, I'm Tammy!</h1>
 <h3 align="center"> A sophomore DOST-SEI Scholar pursuing the program-- BS in Information Technology at the Polytechnic University of the Philippines, San Juan Campus. An eager learner with the desire to continuously improve understanding and skills. Highly appreciates constructive and nurturing mentorship.</h3>
 
-🌱 I’m currently learning **c languages, java, and python**
-📫 How to reach me **tamarasgeronimo@iskolarngbayan.pup.edu.ph**
+- 🌱 I’m currently learning **c languages, java, and python**
+- 📫 How to reach me **tamarasgeronimo@iskolarngbayan.pup.edu.ph**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
