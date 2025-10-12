@@ -1,6 +1,6 @@
 <h1 align="center"> Hello 👋, I'm Tammy!🌷</h1>
 <img align="left" alt="Coding" width="250" src="https://github-production-user-asset-6210df.s3.amazonaws.com/142241465/264631843-9ac0d89e-87e0-4396-b6d5-f704edbfb892.gif"/>
-<h3 align="center" width="200"> A ✨ junior DOST-SEI Scholar ✨ pursuing the program-- <i>BS in Information Technology</i> at the Polytechnic University of the Philippines, San Juan Campus. An eager learner with the desire to continuously improve understanding and skills. Highly appreciates nurturing mentorship.</h3>
+<h3 align="center" width="200"> A ✨ senior DOST-SEI Scholar ✨ pursuing the program-- <i>BS in Information Technology</i> at the Polytechnic University of the Philippines, San Juan Campus. An eager learner with the desire to continuously improve understanding and skills. Highly appreciates nurturing mentorship.</h3>
 
 <p align="center">  🌱 I’m currently learning <b>c languages, java, python, and mySQL</b> <br>
 📫 How to reach me: <b>tamarasgeronimo@iskolarngbayan.pup.edu.ph</b></p>
